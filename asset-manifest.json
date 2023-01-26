@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CloneTG/static/css/main.1f884654.css",
+    "main.js": "/CloneTG/static/js/main.911e45f2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CloneTG/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ImgForFon.png": "/CloneTG/static/media/ImgForFon.496ea839166b331ca77f.png",
+    "static/media/closeOutline.svg": "/CloneTG/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
+    "index.html": "/CloneTG/index.html",
+    "static/media/burger.svg": "/CloneTG/static/media/burger.fc3fa4ef3b72d5172145b3041156e451.svg",
+    "main.1f884654.css.map": "/CloneTG/static/css/main.1f884654.css.map",
+    "main.911e45f2.js.map": "/CloneTG/static/js/main.911e45f2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CloneTG/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f884654.css",
+    "static/js/main.911e45f2.js"
+  ]
+}

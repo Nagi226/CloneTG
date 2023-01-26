@@ -1,0 +1,30 @@
+.sendForm {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap-reverse;
+    margin: 20px 10px 10px 10px;
+
+}
+
+
+.noMessages {
+    display: flex;
+    justify-content: center;
+    color: #746969
+
+}
+
+
+.messagesLeft {
+    display: inline-block;
+    flex-flow: column;
+    margin: 10px 5px 25px 10px;
+    color: #746969
+}
+
+.messagesLeftCounter{
+display: inline-block;
+    color: red;
+    margin-left: 10px;
+}
+

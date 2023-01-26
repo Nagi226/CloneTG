@@ -1,0 +1,47 @@
+
+.App {
+  display: flex;
+}
+
+.App > div {
+
+}
+
+.error {
+  border: red 1px solid;
+}
+
+.error-message {
+  color: red;
+}
+
+
+.text-red{
+  color: red;
+}
+
+.split {
+
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.left {
+  display: flex;
+  flex-flow: column-reverse;
+  left: 0;
+  background-image: url('Img/ImgForFon.png');
+}
+
+.right {
+  display: flex;
+  flex-flow: column-reverse;
+  right: 0;
+  background-image: url('Img/ImgForFon.png');
+}
+

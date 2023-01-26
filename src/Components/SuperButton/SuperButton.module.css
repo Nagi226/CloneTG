@@ -1,0 +1,28 @@
+.button {
+
+    height: 40px;
+    margin-top: 50px;
+
+    background: #ceefc8;
+    border-radius: 20px;
+    color: #4d4747;
+}
+
+
+.button:hover {
+    opacity: 0.5;
+}
+.button:active {
+   background-color: #678bb0;
+    text-align: center;
+}
+
+
+.is-done {
+    opacity: 0.5;
+}
+
+.wrapperButton{
+    display: flex;
+    align-items: center
+}
